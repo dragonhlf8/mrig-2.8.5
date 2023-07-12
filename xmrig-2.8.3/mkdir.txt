@@ -1,0 +1,19 @@
+mkdir App
+gitclone / upload
+tar -xzvf xmrig-2.8.3-xenial-amd64.tar.gz -C ./App
+mybe chmod +x * or ./xmrig
+algo cryptonight-lite
+donate level 2 
+max cpu usage 85  ; 75
+threads null or the number o them
+retreis 30
+retrey pause 10
+./xmrig -c config.json
+au.fastpool.xyz fastpool.xyz:
+fr.aeon.miner.rocks:30112 3333 / 3334 /443
+
+./xmrig -o fr.aeon.miner.rocks:30112 -u WmsZQQtjaboCXWBTWKSApPhMHVm2BeQ8MMVRb6QpULh2Z1NkUWeUf4673DzcedUQzH57VSEa8y5bLNh8RJ6emmG31gpmyzn99 --tls -k -a cn-lite/1
+./xmrig --opencl -o fr.aeon.miner.rocks:30112 -u WmsZQQtjaboCXWBTWKSApPhMHVm2BeQ8MMVRb6QpULh2Z1NkUWeUf4673DzcedUQzH57VSEa8y5bLNh8RJ6emmG31gpmyzn99 --tls -k -a cn-lite/1
+./xmrig --opencl --cuda -o fr.aeon.miner.rocks:30112 -u WmsZQQtjaboCXWBTWKSApPhMHVm2BeQ8MMVRb6QpULh2Z1NkUWeUf4673DzcedUQzH57VSEa8y5bLNh8RJ6emmG31gpmyzn99 --tls -k -a cn-lite/1
+./xmrig --donate-level 1 -o fr.aeon.miner.rocks:30112 -u WmsZQQtjaboCXWBTWKSApPhMHVm2BeQ8MMVRb6QpULh2Z1NkUWeUf4673DzcedUQzH57VSEa8y5bLNh8RJ6emmG31gpmyzn99 -p w=Rig1 -a k12 -k -o fr.aeon.miner.rocks:30112 -u YOUR_WALLET_ADDRESS -p w=Rig1 -a k12 -k
+

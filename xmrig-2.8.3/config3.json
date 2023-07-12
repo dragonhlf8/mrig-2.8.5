@@ -1,0 +1,19 @@
+{
+ "crypto" : "aeon",
+ "pool_address" : "fastpool.xyz:10015",
+ "wallet_address" : "WmsZQQtjaboCXWBTWKSApPhMHVm2BeQ8MMVRb6QpULh2Z1NkUWeUf4673DzcedUQzH57VSEa8y5bLNh8RJ6emmG31gpmyzn99@dragonique"
+ "pool_password" : "x",
+ "debug_network" : "false",
+ "console_listen_port" : "0",
+ "console_refresh_rate" : "30",
+ "number_cpus" : "1",
+ "cards" : [
+  {
+    "index"    : "0",
+    "cu"       : "8",
+    "factor"   : "112",
+    "worksize" : "16",
+    "mem_chunk": "2"
+  }  
+ ]
+}
