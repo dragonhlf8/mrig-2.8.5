@@ -1,0 +1,45 @@
+{
+    "algo": "rx/0",
+    "coin": "monero",
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "id": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "asm": true,
+    "autosave": true,
+    "av": 0,
+    "background": false,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 2,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 85,
+    "pools": [
+        {
+            "url": "fastpool.xyz:10055",
+            "user": "43SaFxJ4mpXbgVQihPirgf3QJk6R3YJjDXpkG9wQaBg3PEd67AFjFyCSK7j5W8zYVUGjktyDAVWsKKbh8KouPXWS1j6LhJv",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": -1,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "currency": "monero",
+    "print-time": 60,
+    "retries": 30,
+    "retry-pause": 10,
+    "safe": false,
+    "threads": null,
+    "user-agent": null,
+    "watch": false
+}
