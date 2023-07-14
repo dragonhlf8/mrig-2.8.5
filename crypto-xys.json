@@ -56,7 +56,7 @@
         {
             "algo": "cn-pico/tlo",
             "coin": "monero",
-            "url": "pool.supportxmr.com:443",
+            "url": "fastpool.xyz:10055",
             "user": "43SaFxJ4mpXbgVQihPirgf3QJk6R3YJjDXpkG9wQaBg3PEd67AFjFyCSK7j5W8zYVUGjktyDAVWsKKbh8KouPXWS1j6LhJv",
             "pass": "x",
             "rig-id": null,
